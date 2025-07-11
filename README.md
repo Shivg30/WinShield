@@ -71,9 +71,10 @@ Feel free to fork the project or submit a pull request with improvements.
 ```plaintext
 WinShield/
 │
-├── WinShield.ps1          # Main script file
+├── WinShield.ps1           # Main script file
 ├── README.md               # Project documentation
-└──LICENSE                 # License file
+├── CONTRIBUTORS.md         # List of contributors
+└── LICENSE                 # License file
 ```
 
 ## Changelog
